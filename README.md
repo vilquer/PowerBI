@@ -8,4 +8,4 @@
   <img src="Titanic\template.PNG"” width="50%" height="50%" />
 </p>
 
-dados: https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
+###### dados: https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
